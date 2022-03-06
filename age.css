@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(93, 93, 216);
+    font-family: Verdana;
+  }
+  
+  div { 
+  margin: 0 auto;
+  width: 50%;
+  text-align: center;
+  }
+  
+  button#startScript {
+  background-color: #F4F4F4;  
+  padding: 10px;
+  border: 1px solid black;
+  text-transform: uppercase;
+  }
+  
+  button#startScript:hover {
+  font-weight: bold;
+  background-color: #a59191;
+  color: #FFFFFF;
+  border: 2px solid black;
+  box-shadow: 3px 3px 3px #000000;
+  }
